@@ -14,7 +14,7 @@ This project analyzes Netflix's content library using SQL and visualizes key ins
 ## 📂 Dataset
 
 The dataset used for this project is available here:  
-[https://github.com/miacodes/netflix-analytics/raw/main/your-dataset-file.csv)]
+
 
 Here’s a preview of the dataset:
 
