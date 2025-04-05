@@ -35,7 +35,10 @@ Here’s a preview of the dataset:
 2. Growth Trend of Movies & TV Shows Over Time  
 3. Genre Distribution within Movies & TV Shows  
 4. Genres with the Highest Engagement Rate  
-5. Top 5 Most Popular Movies & TV Shows  
+5. Top 5 Most Popular Movies & TV Shows
+
+Check out the SQL query here: 
+https://github.com/mia-cheng00/NetflixProject/blob/main/Netflix_data%20Project%20copy.sql
 
 ---
 
