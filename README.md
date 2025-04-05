@@ -47,7 +47,7 @@ Here’s a preview of the dashboard:
 
 ---
 
-## 📂 Recommendation
+## 📂 Recommendations
 
 This analysis reveals two major user behavior patterns on Netflix:
 
