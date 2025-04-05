@@ -44,13 +44,5 @@ Here’s a preview of the dataset:
 
 View the interactive dashboard here → [View Tableau Dashboard](https://public.tableau.com/miacodes/dashboard)
 
----
-
-## 🗂 Dataset
-
-> Dummy data created for demonstration purposes only.
-
----
-
-## 📸 Dashboard Preview  
+Here’s a preview of the dashboard: 
 
