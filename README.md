@@ -19,7 +19,7 @@ The dataset used for this project is available here:
 
 Here’s a preview of the dataset:
 
-![Dataset Preview](./images/dataset-preview.png)
+![Dataset Preview]([./images/dataset-preview.png](https://github.com/mia-cheng00/NetflixProject/blob/main/Netflix_Data.png))
 
 ---
 
