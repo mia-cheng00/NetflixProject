@@ -37,7 +37,7 @@ Here’s a preview of the dataset:
 4. Genres with the Highest Engagement Rate  
 5. Top 5 Most Popular Movies & TV Shows
 
-Check out the SQL query here: 
+Check out the SQL queries here: 
 https://github.com/mia-cheng00/NetflixProject/blob/main/Netflix_data%20Project%20copy.sql
 
 ---
