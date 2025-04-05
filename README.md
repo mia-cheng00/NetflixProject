@@ -29,7 +29,7 @@ Here’s a preview of the dataset:
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Questions to Explore
 
 1. Ratio of Movies vs TV Shows on Netflix  
 2. Growth Trend of Movies & TV Shows Over Time  
@@ -56,6 +56,7 @@ This analysis reveals two major user behavior patterns on Netflix:
 - Mystery-related genres — including sci-fi, fantasy, and thrillers — showed significantly higher engagement rates. These genres appear to perform well because they evoke strong emotions, curiosity, and excitement, which help capture and retain viewer attention.
 
 Business Recommendation
-- Based on these insights, it is recommended that Netflix invest more in mystery-themed content, particularly in movie formats rather than long TV series. This strategy would align with evolving user preferences for quicker, emotionally engaging content. 
+- Based on these insights, it is recommended that Netflix invest more in mystery-themed content, particularly in movie formats rather than long TV series. This strategy would align with evolving user preferences for quicker, emotionally engaging content.
+  
 - Additionally, Netflix could explore producing short-form movies or limited mini-movie series (e.g., 60-80 minutes) to better appeal to audiences seeking faster-paced storytelling without compromising on emotional impact.
 
