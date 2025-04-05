@@ -43,7 +43,3 @@ View the interactive dashboard here → [View Tableau Dashboard](https://public.
 
 ## 📸 Dashboard Preview  
 
-_Add a preview image for extra impact:_
-
-```markdown
-![Netflix Dashboard Preview](https://link-to-your-screenshot-image)
