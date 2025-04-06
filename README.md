@@ -44,7 +44,7 @@ https://github.com/mia-cheng00/NetflixProject/blob/main/Netflix_data%20Project%2
 
 ## 📊 Live Dashboard
 
-View the interactive dashboard here → [View Tableau Dashboard](https://public.tableau.com/miacodes/dashboard)
+View the interactive dashboard here → [View Tableau Dashboard](https://public.tableau.com/app/profile/mia.cheng5889/viz/Netflix_DataVisualization/Dashboard1)
 
 Here’s a preview of the dashboard: 
 
