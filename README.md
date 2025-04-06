@@ -46,7 +46,7 @@ Check out the SQL queries here:
 
 View the interactive dashboard here → [View Tableau Dashboard](https://public.tableau.com/app/profile/mia.cheng5889/viz/Netflix_DataVisualization/Dashboard1)
 
-Here’s a preview of the dashboard: 
+Here’s a preview of the dashboard: ![Dashboard Preview](https://github.com/mia-cheng00/NetflixProject/blob/main/Netflix_Data_Visualisation.png)
 
 ---
 
