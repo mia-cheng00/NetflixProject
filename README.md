@@ -1,7 +1,7 @@
-# Netflix Analytics Dashboard 📊
+# Netflix Analytics Project 📊
 
-A data-driven dashboard to help Netflix identify content trends and audience preferences for better content strategy.
-This project analyzes Netflix's content library using SQL and visualizes key insights through an interactive Tableau dashboard.
+A data-driven analysis to help Netflix identify content trends and audience preferences for better content strategy.
+This project analyses Netflix's content library using SQL and visualizes key insights through an interactive Tableau dashboard.
 
 ---
 
